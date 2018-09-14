@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/carbon-website-gatsby/app-34472560fc1124c7fe35.js","f28ddfac52a1afa5e6f79d432241eaff"],["/carbon-website-gatsby/app-3b4610ce2f315dfea4e8.js","3ac533e8d47a302a92ba480359ee301f"],["/carbon-website-gatsby/index.html","e24436f79cdec1e91e2cecc10d1d4ede"],["/carbon-website-gatsby/manifest.webmanifest","7cdeea007db620f40f74235db35c82dd"],["/carbon-website-gatsby/offline-plugin-app-shell-fallback/index.html","1eb72526b4bf52e8ef78dceaf772a003"]];
+var precacheConfig = [["/carbon-website-gatsby/app-34472560fc1124c7fe35.js","f28ddfac52a1afa5e6f79d432241eaff"],["/carbon-website-gatsby/app-3b4610ce2f315dfea4e8.js","3ac533e8d47a302a92ba480359ee301f"],["/carbon-website-gatsby/app-8c314acc499f75091669.js","32592b1bda64533c62debefd7e622455"],["/carbon-website-gatsby/index.html","8e011a48ac80e2a6a4f28ca20cc45c0c"],["/carbon-website-gatsby/manifest.webmanifest","7cdeea007db620f40f74235db35c82dd"],["/carbon-website-gatsby/offline-plugin-app-shell-fallback/index.html","faca319a4606c19aef32a8b78ddb7966"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
